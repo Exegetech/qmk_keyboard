@@ -1,6 +1,6 @@
 # QMK Configuration
 
-A repository to store my QMK configuration. I am using Iris keyboard Rev 6b.
+A repository to store my QMK configuration. I am using Iris keyboard Rev 6b and Rev7.
 
 ## Install QMK CLI
 
